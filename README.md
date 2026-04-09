@@ -91,4 +91,4 @@ Thank You!
 ```
 ## Author
 Ayush Singh
-GitHub: @ayush893singh
+https://github.com/ayush893singh
