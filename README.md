@@ -38,6 +38,7 @@ Program returns phone number or "Not found"
  * Exit
 Stops the program execution
 ## Code
+```
 contacts = {}
 
 while True:
@@ -63,7 +64,9 @@ while True:
         
     else:
         print("Invalid!\n")
+```
 ## Output
+```
 1-Add
 2-Search
 3-Exit 
@@ -85,3 +88,4 @@ Name to search: Rahul
 3-Exit 
 Enter your Choice :- 3
 Thank You!
+```
