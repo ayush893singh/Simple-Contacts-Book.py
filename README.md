@@ -89,3 +89,6 @@ Name to search: Rahul
 Enter your Choice :- 3
 Thank You!
 ```
+## Author
+Ayush Singh
+GitHub: @ayush893singh
