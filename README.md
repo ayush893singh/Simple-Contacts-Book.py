@@ -72,15 +72,15 @@ while True:
 3-Exit 
 Enter your Choice :- 1
 
-Name: Rahul
-Phone Number: 9876543210
+Name: Ayush
+Phone Number: 98
 Added!
 
 1-Add
 2-Search
 3-Exit 
 Enter your Choice :- 2
-Name to search: Rahul
+Name to search: Ayush
 9876543210
 
 1-Add
