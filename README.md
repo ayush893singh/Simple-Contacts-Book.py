@@ -73,7 +73,7 @@ while True:
 Enter your Choice :- 1
 
 Name: Ayush
-Phone Number: 98
+Phone Number: 70803089XX
 Added!
 
 1-Add
@@ -81,7 +81,7 @@ Added!
 3-Exit 
 Enter your Choice :- 2
 Name to search: Ayush
-9876543210
+70803089XX
 
 1-Add
 2-Search
